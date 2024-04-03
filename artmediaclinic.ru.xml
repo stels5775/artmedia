@@ -82,7 +82,7 @@
 <!-- Принимает взрослых, от 18 лет -->
 <param name="Детский врач">false</param>
 <!-- Принимает детей, до 18 лет -->
-<param name="Степень">Доктор наук</param>
+<param name="Степень">Кандидат наук</param>
 <param name="Прочие титулы">Главный врач</param>
 <param name="Ссылка на профиль врача">https://artmediaclinic.ru/specialisty/fridman/</param>
 <param name="Город клиники">г. Санкт-Петербург</param>
